@@ -1,0 +1,2 @@
+Welcome! This repository is a curated collection of notes, code snippets, and projects documenting my journey into the world of Machine Learning. 
+Whether you are a beginner or a fellow traveler, I hope these resources help you navigate the landscape of AI.
